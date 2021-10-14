@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T14:04:26.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="dVI7916XLN-GtGsgg96P" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-14T14:06:08.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="ViQPTlDVpD13ALXLwg1Y" version="15.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -76,13 +76,13 @@
         <mxCell id="2Uq0teEaXi0mxnSpiHH0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2Uq0teEaXi0mxnSpiHH0-1" target="2Uq0teEaXi0mxnSpiHH0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Uq0teEaXi0mxnSpiHH0-1" value="Buitenbeter &lt;br&gt;Logs" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;opacity=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2Uq0teEaXi0mxnSpiHH0-1" value="PHP Code to fetch Buitenbeter Logs" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;opacity=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="661.5" y="318" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2Uq0teEaXi0mxnSpiHH0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2Uq0teEaXi0mxnSpiHH0-3" target="gF9UFCU9FnWq7VXaU00X-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Uq0teEaXi0mxnSpiHH0-3" value="Buitenbeter &lt;br&gt;reports" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;opacity=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2Uq0teEaXi0mxnSpiHH0-3" value="Buitenbeter &lt;br&gt;log reports" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;opacity=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="661.5" y="554" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
